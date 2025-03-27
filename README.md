@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi DEVs, I'm Alok Rai! 👋
 
-<!--
-**Alok952/Alok952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Backend Developer | Passionate Educator**  
+💡 **experienced in backend development & full-stack projects**  
+📚 **Electronics & Communication Engineering Graduate | Problem Solver**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+🚀 **Languages:** C++, C, JavaScript, Python  
+⚙️ **Backend:** Node.js, Express.js, REST APIs  
+🎨 **Frontend:** React.js, HTML, CSS, Tailwind CSS  
+🗄️ **Databases:** MySQL, MongoDB  
+☁️ **Learning Cloud & DevOps:** AWS (Beginner), Git, GitHub  
+📊 **Other Skills:** Data Structures & Algorithms (DSA) 
+
+---
+
+### 📌 Featured Projects
+#### 🚀 **Full-Stack & Backend Projects**
+- 🛒 **[Flipkart shopping cart Clone](https://github.com/Alok952/flipkart-clone)** – A fully functional shopping cart built with React, Context API & Firebase.
+- ✍️ **[CodePen Clone](https://github.com/Alok952/codepen-clone)** – A live code editor built using React & CodeMirror, mimicking CodePen.
+- 🌿 **[Leaf Disease Detection](https://github.com/Alok952/leaf-disease-detection)** – A machine learning project for plant disease identification using Python.
+
+---
+
+### 🔥 GitHub Stats & Activity
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alok952&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok952&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alok952&theme=radical)
+
+---
+
+### 🌍 Let's Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alokrai)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge)](https://yourportfolio.com)  
+
+💡 _Building, Learning & Teaching!_ 🚀
