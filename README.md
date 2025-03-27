@@ -35,4 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alokrai)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge)](https://yourportfolio.com)  
 
+![Snake animation](https://github.com/Alok952/Alok952/blob/output/github-contribution-grid-snake.svg)
+
+
 💡 _Building, Learning & Teaching!_ 🚀
